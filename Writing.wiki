@@ -1,0 +1,14 @@
+= The Cornell Daily Sun =
+	* [[vfile:Writing/SunApplicationColumn.txt|Application column]]
+	* [[vfile:Writing/IllusionsAndAllusions.txt|Illusions and Allusions]]
+
+= Academic =
+	* [[vfile:Writing/1980ElectionPaper.txt|It Was the Wrong Time, It Was the Right Time: The 1980 US Presidential Election]]
+
+= Science fiction =
+	* [[vfile:Writing/HighExplosive.txt|High Explosive]]
+
+= Poetry =
+	* [[vfile:Writing/ScarredLand.txt|Scarred Land]]
+	* [[vfile:Writing/Geneva.txt|Geneva]]
+

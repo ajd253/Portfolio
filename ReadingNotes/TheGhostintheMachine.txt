@@ -1,0 +1,155 @@
+			 ---THE GHOST IN THE MACHINE---
+
+>The mind is hierarchical, not linear.
+
+
+		   ---Chapter I: The Poverty of Psychology---
+
+>Behaviourism replaced the study of conciousness.
+>Thought was not scientifically measurable. Phenomena were.
+
+BF Skinner rejects conciousness and excludes mental events from study.
+
+Rats as reactive automata.
+Operant conditioning.
+	>Stimulus + response = reinforcement.
+	>S-R chains.
+
+Hull: communication and culture in animals vary only in degree. Humans are not unique.
+
+Koestler critiques S-R chains as too often relying on future stimuli.
+	eg cultural production relies on a future stimuli of recognition.
+	#How true is this? Surely an artist has some prior stimulus providing them the impulse to produce.#
+
+>S-R linkage conceptual framework excluded non-public phenomena. This morphed into a denial of conciousness existing.
+>A flawed methodology became philosophy.
+
+
+	 ---Chapter II: The Chain of Words and the Tree of Language---
+
+Language as chain.
+>Phonemic stimuli rely on context. S-R thus breaks down.
+>An utterance can stimulate a multitude of replies depending on intonation, context, speakers' relationship, etc.
+Behavourist justifies with "intervening variables" mediating between stimulus and response.
+
+Time is a single axis. An S-R approach thus superficially makes sense.
+
+Language as tree.
+A multi-level analysis of speech is necessary to arrive at understanding.
+Language composed of:
+	phonology.
+	morphology.
+	syntax.
+	semantics.
+A listener traverses down and then up the tree to derive a sentence's intended meaning.
+
+>The machinery that produces speech is impenetrable to both inspection and introspection.
+But psycholinguists have shown that speech is hierarchical not linear.
+
+Chomsky's "phrase-structure generating grammar."
+ ---------------------------------
+| 	       I 	 	  |
+|      NP              VP 	  |
+|   T      N        V       NP 	  |
+|   		          T    N  |
+| the   postman  kicked  the  dog |
+ ---------------------------------
+>These formulae are superficial.
+>The manner by which language is produced cannot be expressed by language.
+>Wittgenstein: "the thing which expresses itself in language, we cannot represent by language."
+
+>The tree implies an open-ended hierarchy. The chain implies a deterministic march.
+
+Sentences can be parsed in multiple ways.
+((Young) (boys and girls)) have no hair on their chests.
+((Young boys) (and) (girls)) have no hair on their chests.
+S-R breakdown.
+
+>The mind requires multi-level analysis to interpret linear data streams.
+
+Speaker must design his speech.
+His communication strategy is guided by feedback.
+Conceptually, the speech descends down the tree from subject to outline and sub-headings to syntax, where phrase-generation takes over.
+
+But in actuality, branches grow in an irregular fashion.
+So transforming thought into language is characterised by irregularity but also by a two-way flow, with the words selected informing the ideas formulated.
+
+Speech is further governed by register and formal rules.
+
+>Particles of language are both whole in themselves and part of a larger structure = sub-whole. The ambiguity of a sub-whole can only be resolved by considering its container sub-whole on the level above.
+>All hierarchic systems comprise recursive sub-wholes rather than aggregations of atomic pieces.
+
+The enacting of any skilled action follows this same hierarchic sequence of steps.
+Progress at each level is governed by fixed rules which leave room for flexible strategies guided by feedbacks.
+	eg the fixed rules of gramatical utterances allow a multitude of different metaphors and rhetorical devices.
+#Is the shaping of a strategy through the consideration of feedbacks a cyclical form of the S-R relationship?
+
+
+>Rules are not extant - they are societally determined. Yet each individual considers his language and thought to be governed by these rules.
+
+>Actions that seem mindless and routine are not rigid automatisms but rather flexible patterns offering a variety of alternative choices, choices which cascade down the hierarchy.
+
+
+			  ---Chapter III: The Holon---
+
+Hierarchy of relations, from molecules to biome equilibria to #societal relations.
+#A poisonous form of hierarchy took hold in totalitarian regimes. In Nazi Germany and the Soviet Union there was nothing above the leader, whereas in democratic countries the people are – notionally – above the leader.
+Hierarchy seen as key to the future.
+
+>The Parable of the Two Watchmakers
+Benefits of hierarchy:
+	efficiency.
+	resilience.
+Life would not evolve without the amalgamation of coherent sub-assemblies such as amino acids and proteins into more complex structures.
+Simon: "Complex systems will evolve from simple systems much more rapidly if there are stable intermediate forms than if there are not. Among possible complex forms, hierarchies are the ones that have the time to evolve."
+>Hierarchical life develops more rapidly and is more resilient.
+
+Hierarchies have universal characteristics:
+	relativity and ambiguity of the part and the whole. The "Janus effect" of looking up and looking down characterises all sub-wholes.
+
+DEF: holon = sub-whole (from Greek holos = whole + suffix -on denoting a particle or part).
+
+Neither the behaviourists' atomicity nor the Gestaltists' holism is correct.
+
+>Social holons.
+Societies can only hold together when composed of stable sub-assemblies = social groupings.
+"depth" and "span"
+Hierarchy's efficient operation requires the correct depth:span ratio.
+#depth:span ratio in different settings
+
+Complex societies comprise multiple interlocking hierarchies.
+
+DEF: control hierarchy = authority-fielding hierarchy.
+	eg military
+
+Other hierarchies include:
+	Social.
+		eg family, caste.
+	Geographical.
+		eg neighbourhood/district.
+		Neighbourhood < city < region < country.
+
+
+
+DEF: dissectability = ability to examine depths of a given hierarchy.
+
+There is _cohesion_ within each holon and _separation_ between different holons.
+
+>In an ideal control hierarchy, all lines of control run vertically not horizontally. Holons on the same level do not interact horizontally.
+
+>A complex whole can be dissected into constituent holons. But the property of the whole cannot be predicted from the properties of its constituent holons.
+	#eg consciousness cannot be explained solely by referring to physical/chemical laws.
+
+>The autonomous operation of a holon is governed by its _canon_.
+>Like before, this canon comprises fixed rules and flexible strategies.
+
+In summary: 
+"It is essential for the stability and efficient functioning of the body social that each of its sub-divisions should operate as an autonomous, self-reliant unit which, though subject to control from above, must have a degree of independence and take routine contingencies in its stride, without asking higher authority for instructions. Otherwise the communication channels would become overloaded, the whole system clogged up, the higher echelons would be kept occupied with petty detail and unable to concentrate on more important factors."
+
+
+
+
+>The rules governing a holon are negative _constraints_ and positive _precepts_.
+All holons balance ...
+
+#Vim is an example of a _holon_! The entire Unix system is based around holons.

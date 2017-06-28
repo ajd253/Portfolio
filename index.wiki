@@ -1,0 +1,48 @@
+Alexander Davies
+alex.davies720@gmail.com
+
+= Knowledge =
+== Cornell notes ==
+	* [[Government]]
+	* [[History]]
+	* [[Computer science]]
+	* [[Arabic]]
+== Reading notes ==
+	* [[vfile:ReadingNotes/AfricanGenesisnotes.txt|Ardrey, African Genesis]]
+	* [[vfile:ReadingNotes/TheGhostintheMachine.txt|Koestler, The Ghost in the Machine]]
+== Miscellaneous notes ==
+	* [[Politics]]
+	* [[Philosophy]]
+	* [[Film]]
+	* [[Fiction]]
+	* [[Scratchpad]]
+
+= The past =
+== The mind ==
+	* [[Writing]]
+	* [[Reading]]
+	* [[Learning]]
+
+= The present =
+== The mind ==
+	* [[CurrentWriting]]
+	* [[CurrentReading]]
+	* [[CurrentLearning]]
+== The body ==
+	* [[Exercise]]
+== Tasks ==
+	* [[Short-term]]
+	* [[Medium-term]]
+
+= The future =
+== The mind ==
+	* [[IdeasWriting]]
+	* [[IdeasReading]]
+	* [[IdeasLearning]]
+== The body ==
+	* [[ExerciseGoals]]
+== Tasks ==
+	* [[Long-term]]
+
+
+Search wiki using _***_ for thoughts considered particularly important.
